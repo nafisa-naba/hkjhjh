@@ -1,0 +1,34 @@
+body{
+    background-color: bisque;
+}
+.aboutma{
+    display: flex;
+    text-align: center;
+    background-color: rgb(160, 149, 149);
+    padding-top: 30px;
+}
+h1{
+    font-size: 30px;
+    color: brown;
+}
+.pic{
+    padding: 20px;
+}
+.pic{
+    height: 400px;
+    width: 400px;
+
+}
+/* @media only screen and (min width:678px) { */
+    
+}
+
+@media screen {
+    
+}
+
+
+
+
+
+
